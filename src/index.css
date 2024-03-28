@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+    font-family: "Oswald";
+    src: url("./assets/GeneralSans-Medium.otf");
+  }
+
+  @font-face {
+    font-family: "Gilroy";
+    src: url("./assets/Gilroy-Medium.ttf");
+  }
