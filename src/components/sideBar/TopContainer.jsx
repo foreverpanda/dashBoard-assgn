@@ -7,7 +7,7 @@ import { PiUserSquareBold } from "react-icons/pi";
 import { BiWallet } from "react-icons/bi";
 import { CiDiscount1 } from "react-icons/ci";
 import { MdOutlineLiveHelp } from "react-icons/md";
-import Tile from "../Tile";
+import Tile from "./Tile";
 
 function TopContainer() {
   const TILE_ITEMS = [
